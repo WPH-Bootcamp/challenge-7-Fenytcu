@@ -47,7 +47,9 @@ export default function ProductCard({ item }: ProductCardProps) {
           <h3 className='font-bold text-gray-900 line-clamp-1 flex-1 pr-2'>
             {item.foodName}
           </h3>
-          <span className='font-bold text-red-600'>Rp {item.price.toLocaleString('id-ID')}</span>
+          <span className='font-bold text-red-600'>
+            Rp {item.price.toLocaleString('id-ID')}
+          </span>
         </div>
         <p className='text-gray-500 text-sm line-clamp-2 min-h-[40px]'>
           {item.type}
