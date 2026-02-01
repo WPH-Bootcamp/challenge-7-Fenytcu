@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CX1XKJPp)
+
 # Challenge 9 - Restaurant Web Frontend (Next JS + TypeScript)
 
 # Description
@@ -75,7 +76,7 @@ src/
 
 # Environment & Konfigurasi
 
-- Buat `.env` dengan `VITE_API_BASE_URL	=	link	Api (sesuaikan).
+- Buat `.env` dengan `VITE_API_BASE_URL = link Api (sesuaikan).
 - Axios instance membaca `import.meta.env.VITE_API_BASE_URL`.
 - Hindari hard-code URL API di komponen.
 
@@ -129,3 +130,5 @@ Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-
 ---
 
 🎉 Congratulations on working on this assignment! Utilize the _playground_ feature in Figma to help you understand how the design should look on various devices. Keep experimenting and don't hesitate to look for references if you encounter difficulties. You can definitely produce great work! 🚀 Keep up the spirit, cheers! 🎈
+
+Deploy Vercel : https://my-restorepo.vercel.app
